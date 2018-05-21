@@ -1,0 +1,9 @@
+spring:
+  swagger:
+    basePackage: com.liutt.persion.rest.controller     
+    title: User Info Rest APIS 
+    description: spring cloud demo project
+    contactName: LIUTT
+    contactUrl: https://github.com/liutit
+    contactEmail: 842454909@qq.com
+    version: 1.0
